@@ -20,6 +20,27 @@ Terminal Technology Department, Alipay, Ant Group.
     <a href='https://huggingface.co/BadToBest/EchoMimic'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow'></a>
 </div>
 
+## Model Files
+
+```
+./pretrained_models/
+├── denoising_unet.pth
+├── reference_unet.pth
+├── motion_module.pth
+├── face_locator.pth
+├── sd-vae-ft-mse
+│   └── ...
+├── sd-image-variations-diffusers
+│   └── ...
+└── audio_processor
+    └── whisper_tiny.pt
+```
+
+Some models in this hub can be directly downloaded from it's original hub:
+- [sd-vae-ft-mse](https://huggingface.co/stabilityai/sd-vae-ft-mse): Weights are intended to be used with the diffusers library. (_Thanks to [stablilityai](https://huggingface.co/stabilityai)_)
+- [sd-image-variations-diffusers](https://huggingface.co/lambdalabs/sd-image-variations-diffusers)
+- [audio_processor](https://openaipublic.azureedge.net/main/whisper/models/65147644a518d12f04e32d6f3b26facc3f8dd46e5390956a9424a650c0ce22b9/tiny.pt)
+
 ## Gallery
 ### Audio Driven (Sing)
 
@@ -112,14 +133,6 @@ Terminal Technology Department, Alipay, Ant Group.
 </table>
 
 **（Some demo images above are sourced from image websites. If there is any infringement, we will immediately remove them and apologize.）**
-
-## Acknowledgements
-
-We would like to thank the contributors to the [AnimateDiff](https://github.com/guoyww/AnimateDiff), [Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone) and [MuseTalk](https://github.com/TMElyralab/MuseTalk) repositories, for their open research and exploration. 
-
-We are also grateful to [V-Express](https://github.com/tencent-ailab/V-Express) and [hallo](https://github.com/fudan-generative-vision/hallo) for their outstanding work in the area of diffusion-based talking heads.
-
-If we missed any open-source projects or related articles, we would like to complement the acknowledgement of this specific work immediately.
 
 ## Citation
 
