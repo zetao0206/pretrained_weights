@@ -1,3 +1,6 @@
+---
+license: apache-2.0
+---
 <h1 align='center'>EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning</h1>
 
 <div align='center'>
@@ -143,7 +146,6 @@ If you find our work useful for your research, please consider citing the paper:
   title={EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning},
   author={Zhiyuan Chen, Jiajiong Cao, Zhiquan Chen, Yuming Li, Chenguang Ma},
   year={2024},
-  eprint={2406.01900},
   archivePrefix={arXiv},
   primaryClass={cs.CV}
 }
