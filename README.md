@@ -17,7 +17,7 @@ Terminal Technology Department, Alipay, Ant Group.
 
 <div align='center'>
     <a href='https://badtobest.github.io/echomimic.html'><img src='https://img.shields.io/badge/Project-Page-blue'></a>
-    <a href='https://huggingface.co/BadToBest/EchoMimic'><img src='https://img.shields.io/github/gist/stars/:BadToBest/EchoMimic'></a>
+    <a href='https://github.com/BadToBest/EchoMimic'><img src='https://img.shields.io/github/stars/BadToBest/EchoMimic'></a>
 </div>
 
 ## Model Files
